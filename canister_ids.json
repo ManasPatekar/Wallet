@@ -1,0 +1,10 @@
+{
+  "local": {
+    "wallet": "rrkah-fqaaa-aaaaa-aaaaq-cai",
+    "wallet_assets": "rrkah-fqaaa-aaaaa-aaaaq-cai"
+  },
+  "ic": {
+    "wallet": "rwlgt-iiaaa-aaaaa-aaaaa-cai",
+    "wallet_assets": "rwlgt-iiaaa-aaaaa-aaaaa-cai"
+  }
+}
